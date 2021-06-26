@@ -18,6 +18,6 @@ http://localhost:8800/api/user/login
 -After login you'll get a token
 -copy the token
 -Pass that token in header of those routes 
-Example - 
+# Example - 
  -key - auth-token 
  -value - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MGNjNjJmZjIyZWNiYT
